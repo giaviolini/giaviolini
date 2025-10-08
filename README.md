@@ -12,7 +12,7 @@ Currently I'm Learning....
 
 
 Currently I'm working....
-- creating my <a href:"https://giaviolini.online/"> Portfolio </a> in Print and a web version in WordPress
+- creating my <a href="https://giaviolini.online/">Portfolio</a> in Print and a web version in WordPress
 - an Experience Design project for better Park Signage
 - Designing for No Limits Dance Crew
 - Research for the Designing for Aging Gamers (DAGs) Lab at Northeastern University
