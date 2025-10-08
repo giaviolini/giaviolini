@@ -1,6 +1,21 @@
 ## Hi there 👋
 
-My Name is Gia Violini. I am a second-year Computer Science and Design Student at Northeastern University. 
+My Name is Gia Violini. I am a second-year Computer Science and Design student at Northeastern University with an interest in Experience and Human-centered design. 
+
+📫 How to reach me: email! (violini.g@northeastern.edu)
+😄 Pronouns: She/Her
+
+Currently I'm Learning....
+- Experience Design Principals
+- WordPress
+- HTML, CSS, Python
+
+
+Currently I'm working....
+- creating my Portfolio in Print and a web version in WordPress
+- an Experience Design project for better Park Signage
+- Designing for No Limits Dance Crew
+- Research for the Designing for Aging Gamers (DAGs) Lab at Northeastern University
 
 <!--
 **giaviolini/giaviolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
