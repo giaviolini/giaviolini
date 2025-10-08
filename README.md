@@ -2,7 +2,7 @@
 
 My Name is Gia Violini. I am a second-year Computer Science and Design student at Northeastern University with an interest in Experience and Human-centered design. 
 
-📫 How to reach me: email! (violini.g@northeastern.edu)
+📫 How to reach me: email! (violini.g@northeastern.edu)</br>
 😄 Pronouns: She/Her
 
 Currently I'm Learning....
